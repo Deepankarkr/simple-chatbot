@@ -1,5 +1,5 @@
 
-
+# simple-chatbot
 
 # Step By Step Instruction
 1. **Install Python on your computer:**
@@ -30,4 +30,5 @@
    * The application will use the OpenAI API to generate a response based on your prompt.
    * The generated response will be displayed on the webpage.
 
-# simple-chatbot
+
+![Screenshot](Capture.PNG)  
